@@ -22,7 +22,7 @@ const MainHeader=()=>{
                 </div>
             </div>
             <div className={'tw-flex tw-justify-center tw-mx-auto'}>
-                <div className={`${style.sub} tw-flex tw-justify-center tw-gap-12 tw-items-center tw-rounded-lg tw-shadow-lg tw-px-4 tw-py-6 md:tw-w-1/2 tw-w-[93%] -tw-mt-8`}>
+                <div className={`${style.sub} tw-flex md:tw-flex-row tw-flex-col tw-justify-center tw-gap-12 tw-items-center tw-rounded-lg tw-shadow-lg tw-px-4 tw-py-6 md:tw-w-1/2 tw-w-[93%] -tw-mt-8`}>
                     <div className={'tw-flex tw-items-center tw-w-32 tw-gap-2 tw-text-sm tw-font-bold'}><CalendarMonth style={{color:'#2563EB'}}/> March 24-29, 2025</div>
                     <div className={'tw-flex tw-items-center tw-w-48 tw-gap-2 tw-text-sm tw-font-bold'}><PinDrop style={{color:'#2563EB'}}/>312 Herbert Macaulay, Sabo, Yaba, Lagos, Nigeria</div>
                     <div className={'tw-flex tw-items-center tw-w-48 tw-gap-2'}><AccessTime style={{color: '#2563EB'}}/>

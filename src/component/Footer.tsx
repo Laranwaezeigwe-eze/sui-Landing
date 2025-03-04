@@ -2,9 +2,7 @@ const Footer = ()=>{
     return (
         <div className="tw-mt-12 tw-bg-[#051027] tw-py-12 tw-text-white">
             <div className="tw-mx-auto tw-max-w-7xl tw-px-4 sm:tw-px-6 lg:tw-px-8">
-                {/* Main Content Grid */}
                 <div className="tw-grid tw-grid-cols-1 tw-gap-8 md:tw-grid-cols-2 lg:tw-gap-12">
-                    {/* Logistics Section */}
                     <div className="tw-space-y-4">
                         <h4 className="tw-text-lg tw-font-bold tw-text-[#06b6d4]">Logistics</h4>
                         <ul className="tw-space-y-2">
@@ -38,7 +36,6 @@ const Footer = ()=>{
                     </div>
 
 
-                    {/* Resources Section */}
                     <div className="tw-space-y-4">
                         <h4 className="tw-text-lg tw-font-bold tw-text-[#06b6d4]">Resources and Support</h4>
                         <div className="tw-space-y-4 tw-text-sm sm:tw-text-base">

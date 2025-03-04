@@ -8,7 +8,7 @@ import Footer from "@/component/Footer";
 
 export default function Home() {
   return (
-      <div className={'tw-flex tw-flex-col'}>
+      <div className={'tw-flex tw-flex-col tw-w-full tw-overflow-x-hidden'}>
       <MainHeader/>
           <About/>
           <Features/>

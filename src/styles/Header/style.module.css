@@ -1,17 +1,7 @@
 .body{
     background: linear-gradient(to bottom, #051027, #071a3e);
-    border-bottom-left-radius: 200px;
-}
-.base{
-    border-bottom-left-radius: 245px;
-}
-.about{
-    background:#051027 ;
+    border-bottom-left-radius: 180px;
 }
 .sub{
     background: #fff;
 }
-.features{
-    /*background: lightsteelblue;*/
-}
-.benefits{}
