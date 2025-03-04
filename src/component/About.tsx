@@ -1,4 +1,3 @@
-import style from '../styles/Header/style.module.css'
 const About=()=>{
     return (
         <div className="tw-mx-auto tw-my-16 tw-max-w-6xl tw-px-4 tw-py-8">
